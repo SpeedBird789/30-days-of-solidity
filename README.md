@@ -9,7 +9,19 @@
 ## Day 2
 
 ### Task: Create two separate functions that returns a state variable and a local variable respectively
- * #### Create a state variable and initialize it with 10.
+ * #### Create a state variable and initialise it with 10.
  * #### Create a ```function returnStateVariable( )``` which returns the value of the created state variable.
- * #### Create a local variable and initialize it with 20.
+ * #### Create a local variable and initialise it with 20.
  * #### Create a ```function returnLocalVariable( )``` which returns the value of the created local variable.
+
+### Had a nice summer holiday. Now back to business.
+
+## Day 3
+
+
+### Task: 
+* #### Create a state variable of uint type (need not to be public).
+
+* #### Create a function set () with one argument. Set the value of the created state variable with the value passed as an argument to the set ( ).
+
+* #### Then create another function get () which returns the value of the state variable.
