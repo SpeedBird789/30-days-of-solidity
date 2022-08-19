@@ -25,3 +25,14 @@
 * #### Create a function set () with one argument. Set the value of the created state variable with the value passed as an argument to the set ( ).
 
 * #### Then create another function get () which returns the value of the state variable.
+
+
+## Day 4
+
+
+### Task: 
+* #### Create a function evaluate(int a , int b).
+
+* #### Subtract the difference of a and b from the sum of a and b.
+
+* #### Return the result of the above task from the evaluate() function.
