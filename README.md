@@ -36,3 +36,12 @@
 * #### Subtract the difference of a and b from the sum of a and b.
 
 * #### Return the result of the above task from the evaluate() function.
+
+
+## Day 5
+
+
+### Task: 
+* #### Create a function find(int a). Where a>0.
+
+* #### Return the remainder when a is divided by 3.
