@@ -45,3 +45,12 @@
 * #### Create a function find(int a). Where a>0.
 
 * #### Return the remainder when a is divided by 3.
+
+
+## Day 6
+
+
+### Task: 
+* #### Create a function average(int a,int b,int c). Where a>0,b>0,c>0.
+
+* #### Return the average of a,b and c.
