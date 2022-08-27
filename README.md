@@ -90,3 +90,11 @@
 - #### Create a function prime(uint n) . This prime() will check whether n is a prime number or not.
 
 - #### If n is a prime number then prime() returns 1 and n is not prime then prime() must return 0. For Example: If n=103 then prime() must return 1 as 103 is a prime number. If n=200 then prime() must return 0 as 200 is not a prime number.
+
+## Day 10
+
+### Task: Write a function that returns the exponential of a number.
+
+- #### If y is a positive integer and x is any real number, then x^y corresponds to repeated multiplication x^y=x×x×⋯×x y times. We can call this “x raised to the power of y,” “x to the power of y,” or simply “x to the y.” Here, x is the base and y is the exponent or the power.
+
+- #### Create a function power(uint x,uint y) . This power() will calculate x raised to the power of y and return it. For Example - If x=2 y=3 then power() must return 8 (2x2x2=8) If x=7 y=2 then power() must return 49 (7x7=49)
