@@ -98,3 +98,13 @@
 - #### If y is a positive integer and x is any real number, then x^y corresponds to repeated multiplication x^y=x×x×⋯×x y times. We can call this “x raised to the power of y,” “x to the power of y,” or simply “x to the y.” Here, x is the base and y is the exponent or the power.
 
 - #### Create a function power(uint x,uint y) . This power() will calculate x raised to the power of y and return it. For Example - If x=2 y=3 then power() must return 8 (2x2x2=8) If x=7 y=2 then power() must return 49 (7x7=49)
+
+## Day 11
+
+### Task: Check whether a number is palindrome.
+
+- #### A palindrome number is a number that is the same after its digits have been reversed. For example 545, 151, 34543 etc.
+
+- #### Create a function palindrome(uint n) . This palindrome() will check whether n is a palindrome or not.
+
+- #### If n is a palindrome then palindrome() returns 1 and n is not palindrome then palindrome() must return 0. For Example - If n=545 then palindrome() must return 1. If n=123 then palindrome() must return 0.
