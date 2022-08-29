@@ -101,10 +101,16 @@
 
 ## Day 11
 
-### Task: Check whether a number is palindrome.
+### Task: Check whether a number is palindrome or not.
 
 - #### A palindrome number is a number that is the same after its digits have been reversed. For example 545, 151, 34543 etc.
 
 - #### Create a function palindrome(uint n) . This palindrome() will check whether n is a palindrome or not.
 
 - #### If n is a palindrome then palindrome() returns 1 and n is not palindrome then palindrome() must return 0. For Example - If n=545 then palindrome() must return 1. If n=123 then palindrome() must return 0.
+
+## Day 12
+
+### Task: Reverse a number.
+
+- #### Create a function reverseDigit(uint n) . This reverseDigit() will do the reversal of the number n. For Example - If n=123 then reverseDigit() must return 321. If n=5342 then reverseDigit() must return 2435.
