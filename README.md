@@ -138,3 +138,11 @@
 - #### Create a function sort(array, length of array) . This sort() will take two arguments - a dynamic uint type array and length of the array.
 
 - #### The sort() will sort the array elements in ascending order. For Example - If array =[2,5,9,11,1] then sort() will return [1,2,5,9,11] If array =[90,20,30,10] then sort() will return [10,20,30,90]
+
+## Day 16
+
+### Task: Sort distinct array elements.
+
+- #### Create a function distinct(array, length of array) . This distinct() will take two arguments - a dynamic uint type array and length of the array.
+
+- #### The distinct() will return the number of distinct elements in an array. For Example - If array =[4, 2, 3, 4] then distinct() will return 3. If array =[1, 1, 1] then distinct() will return 1.
