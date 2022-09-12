@@ -164,3 +164,10 @@
 - #### Create a function sumarray(array, length of array) . This sumarray() will take two arguments - a dynamic int type array and length of the array.
  
 - #### The sumarray() will add all elements of an array. For Example - If array = [4, 2, 3, 4] then sumarray() will return 13 i.e. 4+2+3+4 = 13 If array = [1, 2, 3] then sumarray() will return 6 i.e. 1+2+3 = 6.
+
+
+## Day 19
+
+### Task: Find sum of series.
+
+- #### Create a function expression(x,n). The expression() will find the sum of the above expression. For Example - If x =2 n = 3 then expression() will return 15. If x =5 n = 1 then expression() will return 6.
