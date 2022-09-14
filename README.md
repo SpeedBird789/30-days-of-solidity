@@ -180,3 +180,12 @@
 - #### Create a function secondMax(array, length of array) . This secondMax() will take two arguments - a dynamic int type array and length of the array.
 
 - #### The secondMax() will find the second largest element in an array. For Example - If array =[40, 12, 31, 6] then secondMax() will return 31. If array =[9, 122, 37, 54] then secondMax() will return 54.
+
+
+## Day 21
+
+### Task: Find the HCF (greatest number which divides each of the two or more numbers).
+
+- #### Create a function hcf(num1,num2) . This hcf() will take two arguments uint type number1 and number2.
+
+- #### The hcf() will find the Highest Common Factor of number1 and number2. For Example - If num1 = 60 num2 = 75 then hcf() will return 15. If num1 = 31 and num2 = 23 then hcf() will return 1.
