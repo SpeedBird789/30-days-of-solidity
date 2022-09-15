@@ -189,3 +189,11 @@
 - #### Create a function hcf(num1,num2) . This hcf() will take two arguments uint type number1 and number2.
 
 - #### The hcf() will find the Highest Common Factor of number1 and number2. For Example - If num1 = 60 num2 = 75 then hcf() will return 15. If num1 = 31 and num2 = 23 then hcf() will return 1.
+
+
+## Day 22
+
+### Task: Create a structure.
+
+- #### Create two functions a) setBook(title(string),author(string),id(uint)) - To set the book title, author and id given in the structure. b) getBook() - To get the book title,author and id.
+
