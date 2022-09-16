@@ -197,3 +197,14 @@
 
 - #### Create two functions a) setBook(title(string),author(string),id(uint)) - To set the book title, author and id given in the structure. b) getBook() - To get the book title,author and id.
 
+
+## Day 23
+
+### Task: Create a structure.
+
+- #### Create "Book type" dynamic array. This "Book type" array will contain different types of Book.
+
+- #### Create a counter( initialised by 1) which increases every time when a Book is added to the "Book type" array. This counter will act as a id for the Books added in the "Book type" array. Every Book in the "Book type" array will have a unique id.
+
+- #### Create two functions a) setBook(title(string),author(string),id(uint)) - To set the book title, author and id given in the "Book type" array. b) getBook(id(uint)) - To get the book title, author and id of the Book whose id is passed as an argument.
+
