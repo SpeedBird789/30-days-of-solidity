@@ -262,3 +262,10 @@
 - #### getTeamPlayers() - To return the entire array elements.
 - #### selectJerseyNumber() - It will take only one argument of uint type and returns the players address from the array created above. a) The argument passed into the function must be greater than equal to zero and less than equal to 15. [Hint - Use require].
 
+
+## Day 30
+
+### Task: Concatenate two strings.
+
+- #### Create the following function: concatenate ( ) - This function will take two arguments i.e string 1 and string 2. It will concatenate string 1 and string 2 and will return the concatenated string.
+
